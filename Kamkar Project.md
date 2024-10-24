@@ -55,7 +55,7 @@
     - 43 PC
 
 ### 6. **Network Diagram**
-![model](Network model.jpg)
+![Network Model](network_model.jpg)
 
 ### 7. **VLAN Table and IP Network Configuration**
 
