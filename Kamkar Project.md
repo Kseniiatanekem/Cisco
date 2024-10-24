@@ -55,11 +55,11 @@
     - 43 PC
 
 ### 6. **Network Diagram**
-https://github.com/Kseniiatanekem/Cisco/blob/main/Network%20model.jpg
+![Network model](Network model.jpg)
 
 ### 7. **VLAN Table and IP Network Configuration**
 
-https://github.com/Kseniiatanekem/Cisco/blob/main/ip_address.jpg?raw=true
+![ip](ip_address.jpg)
 
 ### 8. **Central Components**
 
