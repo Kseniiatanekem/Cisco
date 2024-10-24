@@ -57,7 +57,7 @@
 ### 6. **Network Diagram**
 ![Network Model](network_model.jpg)
 
-### 7. **VLAN Table and IP Network Configuration**
+### 7.**VLAN Table and IP Network Configuration**
 
 ![ip](ip_address.jpg)
 
@@ -73,6 +73,7 @@
     - **Functions**:
         
         - Inter-segment routing, firewalls, and access control (ACL) between internal VLANs.
+          
 - **SW0 Switch (Cisco 2960)**:
     
     - Central backbone switch, connected to the ISR4331 router and all other switches.
@@ -84,8 +85,7 @@
     - **Functions**: Manages all inter-switch communication, serving as the central node for traffic between network segments.
         
 
-
-**Switches and VLANs
+**Switches and VLANs**
 
 The network uses multiple managed Cisco 2960 switches, each serving a specific VLAN. VLANs divide the network into logical segments, providing both security and efficient traffic management.
 
