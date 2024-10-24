@@ -59,7 +59,7 @@ https://github.com/Kseniiatanekem/Cisco/blob/main/Network%20model.jpg
 
 ### 7. **VLAN Table and IP Network Configuration**
 
-![[Pasted image 20241024154213.png]]
+https://github.com/Kseniiatanekem/Cisco/blob/main/ip_address.jpg?raw=true
 
 ### 8. **Central Components**
 
