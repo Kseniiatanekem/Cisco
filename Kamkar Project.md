@@ -149,7 +149,6 @@ The network uses multiple managed Cisco 2960 switches, each serving a specific V
     
 - **Simplified Scalability**: If the network needs to be expanded or a new department added, a new VLAN can be created, simplifying the management of a large and distributed infrastructure.
 
-Let's estimate the cost of cables for the network setup. Typically, network setups of this type would use Ethernet cables (Cat5e or Cat6) to connect switches, PCs, and other devices. The exact cost depends on the length and quality of cables, but we can make a rough estimate.
 
 ### 13. **Cost of network deployment**
 
